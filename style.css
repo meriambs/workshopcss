@@ -1,0 +1,20 @@
+h1{
+color: rgb(12, 102, 181);
+}
+
+p{
+    border:10px solid rgb(174, 29, 29); 
+    padding: 10px;
+
+}
+
+.projet{
+    border:10px solid rgb(29, 111, 174); 
+    padding: 10px;
+margin-bottom: 200px;
+}
+
+.projet p{
+    border:10px solid #04AA6D; 
+    font-size: 20px;
+}
